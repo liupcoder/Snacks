@@ -1,4 +1,4 @@
-import notice from './notice.vue'
+import notice from './Notice.vue'
 
 export default ({ Vue }) => {
   Vue.component('notice', notice)
