@@ -9,7 +9,7 @@ home: true
 #   background: '#fff',
 #   borderRadius: '1rem',
 # }
-bgImage: /bg.png
+bgImage: /banner.png
 bgImageStyle: { backgound-position: center, height: "400px" }
 # isShowTitleInHome: false
 # actionText: Guide
