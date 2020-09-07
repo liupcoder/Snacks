@@ -95,7 +95,7 @@ module.exports = {
         },
         {
           type: 'image',
-          src: '/qun.jpeg'
+          src: '/2020-09-07.jpeg'
         }
       ],
       // footer: [
